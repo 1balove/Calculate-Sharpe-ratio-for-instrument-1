@@ -1,1 +1,1 @@
-# Credit-card-fraud-detection-project
+# Calculate Sharpe ratio for instrument 1
